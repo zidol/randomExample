@@ -7,5 +7,7 @@ public class Random {
         String gettedVal = arrValues[ nGetVal];
 
         System.out.println("gettedVal = " + gettedVal);
+        
+        //
     }
 }
