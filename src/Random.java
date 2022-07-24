@@ -6,6 +6,7 @@ public class Random {
         System.out.println("nGetVal = " + nGetVal);
         String gettedVal = arrValues[ nGetVal];
 
+        //git stash 테스트
         System.out.println("gettedVal = " + gettedVal);
         
         //
